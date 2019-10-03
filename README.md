@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/212660039.svg)](https://zenodo.org/badge/latestdoi/212660039)
+
 # Couette BGK
 Solver for the linear Couette-flow problem for a rarefied BGK gas, which is reduced to the 1D integral equation.
 
